@@ -29,7 +29,3 @@
 </p>
  -->
 </p>
-
-<p align='center'>
-<a href="https://stackoverflow.com/users/10612336/iamnotstatic"><img src="" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
-</p>
