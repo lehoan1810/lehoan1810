@@ -4,11 +4,8 @@
 [![](https://visitcount.itsvg.in/api?id=lehoan1810&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<img src="https://skillicons.dev/icons?i=ts,js,tailwindcss,react,next,git,figma,firebase" /> 
-
-
-
 ### 💻 Tech Stack:
+<img src="https://skillicons.dev/icons?i=ts,js,tailwindcss,react,next,git,figma,firebase" /> 
 <!--
 <p>
 
