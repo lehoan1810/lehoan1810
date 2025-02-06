@@ -1,11 +1,8 @@
 - 👋 Hi, I’m lehoan
 - 👀 Having a strong passion for building web applications
-
-[![](https://visitcount.itsvg.in/api?id=lehoan1810&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 ### 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=ts,js,tailwindcss,react,next,git,figma,firebase" /> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
 <!--
 <p>
 
