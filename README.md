@@ -4,12 +4,12 @@
 [![](https://visitcount.itsvg.in/api?id=lehoan1810&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-<img src = "https://github-readme-stats.vercel.app/api?username=lehoan1810&show_icons=true&theme=tokyonight&line_height=27">
+<img src="https://skillicons.dev/icons?i=ts,js,tailwindcss,react,next,git,figma,firebase" /> 
 
 
 
 ### 💻 Tech Stack:
+<!--
 <p>
 
   <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -36,4 +36,4 @@
 <br />
 
 ###
-
+-->
